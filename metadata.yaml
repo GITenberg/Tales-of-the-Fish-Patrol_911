@@ -1,0 +1,31 @@
+_repo: Tales-of-the-Fish-Patrol_911
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Francisco Bay Area (Calif.) -- Fiction'
+- !lcsh 'Fishing villages -- Fiction'
+- !lcsh 'Fishers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Immigrants -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: White and yellow -- The King of the Greeks -- A raid on the oyster
+  pirates -- The siege of the "Lancashire Queen" -- Charley's coup -- Demetrios Contos
+  -- Yellow handkerchief.
+title: Tales of the Fish Patrol
+url: http://www.gutenberg.org/ebooks/911
