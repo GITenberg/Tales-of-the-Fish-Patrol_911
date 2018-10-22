@@ -1,5 +1,5 @@
 _repo: Tales-of-the-Fish-Patrol_911
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 911-h/images/coverb.jpg
@@ -30,6 +30,7 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Immigrants -- Fiction'
 - !lcsh 'Short stories'
+- GITenberg
 tableOfContents: White and yellow -- The King of the Greeks -- A raid on the oyster
   pirates -- The siege of the "Lancashire Queen" -- Charley's coup -- Demetrios Contos
   -- Yellow handkerchief.
